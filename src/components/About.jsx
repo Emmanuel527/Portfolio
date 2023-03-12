@@ -39,8 +39,7 @@ const About = () => {
     <motion.p variants={fadeIn('','',0.1,1)}
     className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
     >
-      I'm a creative software deverloper with experience in JavaScript, Python, and expertise in framewrks like
-      React and Threejs.  
+      I'm a creative software deverloper using libraries like WebGL, React Three Fiber and Threejs to bring interactive website ideas to life.   
 
     </motion.p>
 

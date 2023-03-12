@@ -46,11 +46,11 @@ import {
       icon: web,
     },
     {
-      title: "React Native Developer",
+      title: "Frontend Designer",
       icon: mobile,
     },
     {
-      title: "Backend Developer",
+      title:  "3D Artist",
       icon: backend,
     },
     {
@@ -198,9 +198,9 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Artis",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Web-based platform that allows content creators to showcase all their content from different platforms all in one place.",
       tags: [
         {
           name: "react",
@@ -216,15 +216,16 @@ import {
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Emmanuel527/artis.community",
+      site_link: "https://www.artis.community/",
     },
     {
-      name: "Job IT",
+      name: "Canon Books",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "An online library that showcases book reviews and enables users to rate and comment on posts.",
       tags: [
         {
-          name: "react",
+          name: "nextjs",
           color: "blue-text-gradient",
         },
         {
@@ -232,28 +233,28 @@ import {
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "tailwind",
           color: "pink-text-gradient",
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Emmanuel527/Canon-Books",
     },
     {
-      name: "Trip Guide",
+      name: "This Website",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "3D website created for the purpose of showcasing experience and projects to potential employers.",
       tags: [
         {
-          name: "nextjs",
+          name: "Threejs",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "R3F",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "tailwind",
           color: "pink-text-gradient",
         },
       ],
